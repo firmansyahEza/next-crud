@@ -18,11 +18,6 @@ function Navbar() {
                   <a className="nav-link">POSTS</a>
                 </Link>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="https://santrikoding.com" target="_blank" rel="noreferrer">
-                  SANTRIKODING
-                </a>
-              </li>
             </ul>
             <form className="d-flex">
               <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
